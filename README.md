@@ -4,7 +4,7 @@ A modern, responsive React website for Omnifood - a healthy meal delivery servic
 
 ## 🚀 Live Demo
 
-Visit the website: [Omnifood React](http://localhost:5173/)
+Visit the website: [Omnifood React](https://omnifood-react-mostafa.netlify.app/)
 
 ## ✨ Features
 
