@@ -38,8 +38,8 @@ Visit the website: [Omnifood React](http://localhost:5173/)
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/omnifood-react.git
-   cd omnifood-react
+   git clone https://github.com/Mostafa-Elmoalem/react-solo-project.git
+   cd react-solo-project
    ```
 
 2. **Install dependencies**
